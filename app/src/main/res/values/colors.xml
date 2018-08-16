@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0088a3</color>
+    <color name="colorPrimaryDark">#00b8d4</color>
+    <color name="colorAccent">#62ebff</color>
+    <color name="app_blue">#01579B</color>
+    <color name="app_white">#FFFFFF</color>
+    <color name="app_light_gray">#ECEFF1</color>
+    <color name="app_black">#000000</color>
+    <color name="layout_backgroung">#F5F5F5</color>
+    <color name="QRCodeBlackColor">#000000</color>
+    <color name="QRCodeWhiteColor">#FFFFFF</color>
+</resources>

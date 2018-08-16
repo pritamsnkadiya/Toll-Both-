@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Fluid IOT</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Sukhad Yatra</string>
+    <string name="nav_header_subtitle">pritamsnkadiya@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="nearByToll">Near By Toll</string>
+    <string name="payToll">Pay Toll</string>
+    <string name="AddVhicle">Add Vehicle</string>
+    <string name="RateUs">Rate Us</string>
+    <string name="access_token">pk.eyJ1IjoicHJpdGFtMTQzIiwiYSI6ImNqZmR0cmxsejFydmUycW1zamljaDY1dXYifQ.4MDCnCrRYGnRrvO6oN7K_w</string>
+    <string name="name">Car Names</string>
+    <string name="spinner_title">Car Name</string>
+    <string name="marque">Hello Well-Come To bdkjdbkbdbkd dkjjdjndknkdn nkdnkdnknd nd Thank You !</string>
+</resources>
